@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Playfair";
+  src: url(..//fonts/Playfair/PlayfairDisplay-Italic.ttf);
+}
+/* fontes */
+@font-face {
+  font-family: "Gotic";
+  src: url(..//fonts/Grenze_Gotisch/GrenzeGotisch-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: "roman";
+  src: url(..//fonts/Romanesco/Romanesco-Regular.ttf);
+}
